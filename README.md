@@ -34,25 +34,9 @@ The primary components of this project include:
 
 ├── func_verification.py
 
-├── heatmap_results_nu_noise/
 
-│   ├── breast cancer_SU_heatmap.png
+All folders contain the experimental results from the preprint.
 
-│   ├── breast cancer_SU_heatmap_diff.png
-
-│   ├── breast-cancer-coimbra_SU_heatmap_table.tex
-
-│   ├── breast-cancer-coimbra_SU_heatmap_table_diff_rb.tex
-
-│   ├── ... (other heatmaps and LaTeX files)
-
-├── finlamente_nu_noise/
-
-│   ├── final_results_SU.pkl
-
-│   ├── final_results_SO.pkl
-
-│   ├── final_results_SL.pkl
 
 
 
