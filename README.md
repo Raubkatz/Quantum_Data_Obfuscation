@@ -92,14 +92,15 @@ The results of the experiments, including all generated datasets, analysis outpu
 
 Ensure you have the following dependencies installed:
 
-- Python 3.6 or higher  
-- numpy  
-- pandas  
-- scikit-learn  
-- lightgbm  
-- matplotlib  
-- seaborn  
-- scipy  
+numpy==1.19.5
+pandas==1.1.3
+scikit-learn==0.24.2
+scikit-optimize==0.9.0
+lightgbm==4.3.0
+matplotlib==3.2.2
+seaborn==0.11.0
+scipy==1.5.3
+python==3.6.10
 
 ## Usage
 
