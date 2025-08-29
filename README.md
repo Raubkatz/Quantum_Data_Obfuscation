@@ -90,7 +90,9 @@ The results of the experiments, including all generated datasets, analysis outpu
 
 ## Prerequisites
 
-Ensure you have the following dependencies installed:
+Ensure you fulfill the following dependencies:
+
+python==3.6.10
 
 numpy==1.19.5
 
@@ -107,8 +109,6 @@ matplotlib==3.2.2
 seaborn==0.11.0
 
 scipy==1.5.3
-
-python==3.6.10
 
 pickle5==0.0.11
 
