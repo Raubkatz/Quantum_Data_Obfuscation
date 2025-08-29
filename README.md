@@ -110,6 +110,9 @@ scipy==1.5.3
 
 python==3.6.10
 
+pickle5==0.0.11
+
+
 ## Usage
 
 1. **Dataset Verification**: Run `00_check_datasets.py` to load and preprocess datasets, ensuring they are ready for the experiments.  
